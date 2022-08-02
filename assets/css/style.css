@@ -1,0 +1,28 @@
+:root {
+  --bg: #fafafa;
+  --bg-gray: #f2f2f2;
+  --logo: #5a4fcf;
+  --black: #232631;
+  --gray: #656565;
+  --purple: #5a4fcf;
+  --light-purple: #5a4fcf1a;
+  --dark-purple: #130f26;
+  --orange: #fdc886;
+}
+
+nav {
+  margin: 60px;
+}
+
+.menu__logo span {
+  font-weight: bold;
+}
+
+.menu__utilitySearch {
+  height: 56px;
+}
+
+.menu__utilityLogin button {
+  background-color: var(--light-purple);
+  color: #5a4fcf;
+}
